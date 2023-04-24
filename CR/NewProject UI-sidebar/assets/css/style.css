@@ -121,3 +121,11 @@ border-radius: 50%;
     background-color: var(--primary-color);
     border-color: var(--primary-color);
 }
+
+.btn{
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+.card-link{
+    color: var(--primary-color);
+}
